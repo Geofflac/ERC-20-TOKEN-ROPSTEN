@@ -17,11 +17,11 @@ Create a file .sol and place the solidity code from the file token.sol in this r
 ## 4  - Deploy the contract
 The gas fees will appear<br />
 ![image](https://user-images.githubusercontent.com/84672157/148502243-3cc523ee-cc92-41d1-a7a9-014851cf02f1.png)<br />
-Once the contract is deployed, the contract details appear in the terminal<br />
-![image](https://user-images.githubusercontent.com/84672157/148502615-a78d9fea-8ec0-4f01-9141-272be44bad25.png)<br />
+Once the contract is deployed, the contract details appear in the terminal, take note of the transaction hash<br />
+![image](https://user-images.githubusercontent.com/84672157/148504917-397aaf63-5ae2-4379-ad11-a4548ab87ed4.png)
 
 ## 5 - Collect contract hash
-Details can also be seen on ROPSTEN ETHERSACN, just copy the transaction hash from REMIX TERMINAL inside ETHERSCAN search bar - https://ropsten.etherscan.io/<br />
+Details can also be seen on ROPSTEN ETHERSCAN, just copy the transaction hash from REMIX TERMINAL inside ETHERSCAN search bar - https://ropsten.etherscan.io/<br />
 From there, you can retrieve the contract hash<br />
 ![image](https://user-images.githubusercontent.com/84672157/148503889-e6b2e496-5a91-46db-9cd8-df208562017d.png)
 
