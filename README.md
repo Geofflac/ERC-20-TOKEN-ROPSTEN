@@ -10,7 +10,7 @@ Use a ROPSTEN FAUCET - https://faucet.egorfine.com/<br />
 ![image](https://user-images.githubusercontent.com/84672157/148396822-e77a4294-be4d-465c-8d3f-efe5a6ef32a8.png)
 
 ## 3 - Write the smart contract
-Inside the REMIX IDE, select INJECTED WEB3 environment and connect your METAMASK<br />
+Inside the REMIX IDE, select INJECTED WEB3 environment and connect your METAMASK - https://remix.ethereum.org/<br />
 ![image](https://user-images.githubusercontent.com/84672157/148502011-192bfe06-23a0-4171-901a-d3735503fdcc.png)<br />
 Create a file .sol and place the solidity code from the file token.sol in this repo.
 
