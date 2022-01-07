@@ -21,7 +21,7 @@ Once the contract is deployed, the contract details appear in the terminal<br />
 ![image](https://user-images.githubusercontent.com/84672157/148502615-a78d9fea-8ec0-4f01-9141-272be44bad25.png)<br />
 
 ## 5 - Collect contract hash
-Details can also be seen on ROPSTEND ETHERSACN, just copy the transaction hash from REMIX TERMINAL inside ETHERSCAN search bar<br />
+Details can also be seen on ROPSTEN ETHERSACN, just copy the transaction hash from REMIX TERMINAL inside ETHERSCAN search bar - https://ropsten.etherscan.io/<br />
 From there, you can retrieve the contract hash<br />
 ![image](https://user-images.githubusercontent.com/84672157/148503889-e6b2e496-5a91-46db-9cd8-df208562017d.png)
 
